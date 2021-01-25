@@ -1,0 +1,23 @@
+{
+  "name": "vigour-design",
+  "version": "0.0.1",
+  "description": "基于Vue2的UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrh617/Vigour-Design.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "zrh617",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zrh617/Vigour-Design/issues"
+  },
+  "homepage": "https://github.com/zrh617/Vigour-Design#readme"
+}

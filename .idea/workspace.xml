@@ -22,9 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72671803-1de7-4201-a9ba-12c9f20eaf39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="72671803-1de7-4201-a9ba-12c9f20eaf39" name="Default Changelist" comment="npm install vue">
+      <change afterPath="$PROJECT_DIR$/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SMT/web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -58,8 +65,16 @@
       <option name="presentableId" value="Default" />
       <updated>1611561812359</updated>
       <workItem from="1611561813608" duration="448000" />
-      <workItem from="1611562289188" duration="1638000" />
+      <workItem from="1611562289188" duration="6716000" />
     </task>
+    <task id="LOCAL-00001" summary="npm install vue">
+      <created>1611564332656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611564332656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,11 +91,23 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="npm install vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm install vue" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1611568647749">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1611568647749" />
     <state x="184" y="28" key="SettingsEditor" timestamp="1611563835983">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1611563835983" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1611564345928">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1611564345928" />
     <state x="386" y="120" width="594" height="528" key="find.popup" timestamp="1611563636759">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
